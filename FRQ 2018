@@ -31,3 +31,16 @@ class Main {
   }
 
 }
+
+-----------------------------------
+//2nd
+
+public class Arraytester {
+  private int[] someArray;
+
+  public Arraytester(int[][] arr2D) {
+    this.someArray = new int[arr2D.length];
+  }
+
+
+}
