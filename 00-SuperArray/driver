@@ -1,7 +1,7 @@
   
 public class Driver{
   public static void main(String[] args){
-    SuperArray arr1 = new SuperArray(9);// -1 since arrays have 0
+    SuperArray arr1 = new SuperArray(9);
     SuperArray arr2 = new SuperArray(12);
     SuperArray arr3 = new SuperArray(4);
     Grades grades = new Grades(0);
